@@ -1,0 +1,1 @@
+Starting point for Meteor JS applications
